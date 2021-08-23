@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kelsey Bensen
+- 💞️ COSC 2030 lab section 10
 - 👀 I’m interested in drawing fan art for video games and shows 
 - 🌱 I’m currently learning Computer Science with a minor in Art
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kbensen1@uwyo.edu
 
 <!---
